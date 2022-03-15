@@ -84,8 +84,6 @@
 			<groupId>jp.co.hogehoge.framework</groupId>
 			<artifactId>core-db-db2</artifactId>
 			<version>1.0.0</version>
-			<scope>system</scope>
-			<systemPath>${basedir}/../SharedLibrary/core-db-db2-1.0.0.jar</systemPath>
 		</dependency>
 	</dependencies>
 
