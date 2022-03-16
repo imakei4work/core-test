@@ -79,12 +79,6 @@
 			<artifactId>core-property</artifactId>
 			<version>1.0.0</version>
 		</dependency>
-
-		<dependency>
-			<groupId>jp.co.hogehoge.framework</groupId>
-			<artifactId>core-db-db2</artifactId>
-			<version>1.0.0</version>
-		</dependency>
 	</dependencies>
 
 	<reporting>
