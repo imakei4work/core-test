@@ -1,13 +1,9 @@
 jp\co\hogehoge\framework\test\db\ds\mock\MockContext.class
 jp\co\hogehoge\framework\test\db\ds\TestContext.class
 jp\co\hogehoge\framework\test\db\TestDB.class
-jp\co\hogehoge\framework\test\db\SqlMocker$TransactionFunction.class
-jp\co\hogehoge\framework\test\db\ds\TestContextFactory.class
 jp\co\hogehoge\framework\test\db\ds\mock\MockContextFactory.class
+jp\co\hogehoge\framework\test\db\ds\TestContextFactory.class
 jp\co\hogehoge\framework\test\db\ds\mock\MockDataSource.class
-jp\co\hogehoge\framework\test\db\SqlMocker.class
 jp\co\hogehoge\framework\test\db\mock\MockDB.class
-jp\co\hogehoge\framework\test\db\SqlMocker$TransactionSupplier.class
 jp\co\hogehoge\framework\test\db\ds\mock\MockConnection.class
 jp\co\hogehoge\framework\test\db\ds\TestDataSource.class
-jp\co\hogehoge\framework\test\db\SqlMocker$1.class
